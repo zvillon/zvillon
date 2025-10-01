@@ -9,7 +9,7 @@ I'm a College student at Epitech pursuing a degree in Computer Science. I have a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,angular,html,css,ts" />
+    <img src="https://skillicons.dev/icons?i=git,c,angular,html,css,ts,java,python" />
   </a>
 </p>
 
