@@ -1,27 +1,58 @@
-# Hello, I'm Zhang Villon! 👋
+# Hello, I'm Villon Zhang! 👋
 
-## About Me
+## 🚀 About Me
 
-I'm a College student at Epitech pursuing a degree in Computer Science. I have a keen interest in software development and love diving into new technologies and frameworks. My programming journey started C and C++, and I'm constantly seeking opportunities to apply what I learn in class to real-world projects. I'm willing to start working on open sources project and maybe start participating in some hackathons. When not coding, I enjoy exploring the latest tech innovations and collaborating with fellow students on exciting new ideas.
+- 🎓 I'm an Epitech graduate holding a Master's-level diploma in Information Technology (completed September 2026).
+- 💻 My programming journey started with systems programming in **C and C++**, and has since expanded into full-stack web development, backend architecture, and cloud infrastructure.
+- 🌟 I love building robust applications, exploring new technologies, and bringing real-world experience from professional software engineering internships to new challenges.
+- 🌱 Currently diving deeper into open-source projects and preparing to join upcoming hackathons!
 
+---
 
-## 🔧 Technologies & Tools
+## 💻 Skills & Technologies
 
-<p align="center">
+### ⚙️ System & Core Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,angular,html,css,ts,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ts" />
   </a>
 </p>
 
-## 📚 Projects
+### 🌐 Web Frameworks & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,nextjs,nestjs,spring,dotnet,html,css" />
+  </a>
+</p>
 
-- **On going**
+### 🛠️ Tools, Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,terraform,aws,figma,idea" />
+  </a>
+</p>
+
+---
+
+## 📚 Featured Projects
+
+- **[Carrion]** (Academic Team Project) – A web app designed to simplify job application tracking with automated CI/CD pipelines via GitHub Actions and an OVH VPS. It integrates Mistral's LLM API to parse user emails and automatically update application statuses.
+  - **Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma, Mistral LLM API
+
+- **Koï** (Team Project) – A service that takes a text description and animates a 3D model (`.fbx`) accordingly. It uses NLP to parse requests, finds matching animations from a local library, and handles retargeting through the Blender API.
+  - **Tech Stack:** Python, Blender API, Hugging Face NLP
+
+---
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvillon&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zvillon&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/villon-zhang">LinkedIn</a>
-- Email: zhg.villon@gmail.com
+- **LinkedIn:** [villon-zhang](https://www.linkedin.com/in/villon-zhang)
+- **Email:** zhg.villon@gmail.com
