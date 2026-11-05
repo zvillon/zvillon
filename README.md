@@ -44,14 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zvillon&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [villon-zhang](https://www.linkedin.com/in/villon-zhang)
